@@ -32,7 +32,7 @@ const getLinks = async (term) => {
 
 }
 
-searchForm.addEventListener('input', (e) => {
+searchForm.addEventListener('submit', (e) => {
     e.preventDefault();
     getLinks(searchForm.term.value.trim());
 
