@@ -1,4 +1,4 @@
-# [https://sonukushwaha.me/links-list/](https://sonukushwaha.me/links-list/)
+# [sonukushwaha.me/links-list](https://sonukushwaha.me/links-list/)
 
 ### Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world
 
@@ -18,7 +18,6 @@ Live demo **[https://sonukushwaha.me/links-list/](https://sonukushwaha.me/links-
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
-**Note:** this project is not for increasing your PR count, it is for listing profile of developers around the world.
 
 ## Steps to follow :scroll:
 
@@ -72,11 +71,6 @@ Then add a title and description to your pull request
 
 
 
----
-
-Get a [**domain name for free**](https://github.com/singlebucks/get_free_domain)
-
----
 
 **Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
@@ -85,8 +79,6 @@ Get a [**domain name for free**](https://github.com/singlebucks/get_free_domain)
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
 **Thanks!**
-
-Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
