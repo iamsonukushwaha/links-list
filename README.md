@@ -16,7 +16,7 @@ Live demo **[https://sonukushwaha.me/links-list/](https://sonukushwaha.me/links-
 
 --->
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
 
 ## Steps to follow :scroll:
@@ -76,8 +76,6 @@ Then add a title and description to your pull request
 
 <br><br>
 
-**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
-
 **Thanks!**
 
 
@@ -89,9 +87,7 @@ Then add a title and description to your pull request
 	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="http://bit.ly/2YqcMNO"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white&color=Black" alt="website"></a>
 	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.facebook.com/sonukumarkushwaha736"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
-	<a href="https://www.instagram.com/flyingsonu736/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-	<a href="https://medium.com/@sonukumarkushwaha"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
+	
 	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=YouTube" alt="YouTube"></a>
 	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/iamsonukushwaha?label=Follow&style=social" alt="Twitter"></a>
 	
