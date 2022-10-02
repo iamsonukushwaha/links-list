@@ -16,7 +16,7 @@ Live demo **[https://sonukushwaha.me/links-list/](https://sonukushwaha.me/links-
 
 --->
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
 
 ## Steps to follow :scroll:
@@ -75,8 +75,6 @@ Then add a title and description to your pull request
 **Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
 <br><br>
-
-**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
 **Thanks!**
 
