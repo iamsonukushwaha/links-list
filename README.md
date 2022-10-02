@@ -30,7 +30,6 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)
  
 
 ### 2. Create a new branch :bangbang:
