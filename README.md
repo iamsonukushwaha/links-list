@@ -7,8 +7,5 @@
 
 
 
-https://www.sonu.live/links-list/
-
-
 
 https://linklist-vert.vercel.app/
