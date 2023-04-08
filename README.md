@@ -1,10 +1,8 @@
-# [sonukushwaha.me/links-list](https://sonukushwaha.me/links-list/)
+
 
 ### Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world
 
 
-
-Live demo **[https://sonukushwaha.me/links-list/](https://sonukushwaha.me/links-list/)**
 
 <br><br>
 
