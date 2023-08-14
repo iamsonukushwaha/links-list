@@ -72,20 +72,21 @@ Then add a title and description to your pull request
 **Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
 <br><br>
+<br><br><br><br>
 
-**Thanks!**
+
+**&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
 
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
+
+<br/><br/><br/>
+
+<p align="center">
+	<a href="https://singlebucks.blogspot.com"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="website"></a>
+	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.youtube.com/@flyingsonu736"><img src="https://img.shields.io/youtube/channel/subscribers/UCugIYeIc-HzCp-SZxRwuQbA?label=YouTube&style=social&logo=YouTube" alt="YouTube"></a>
+	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/iamsonukushwaha?label=Twitter&style=social" alt="Twitter"></a>
+</p>
 
 <br><br>
-<p align="center"> Let's have a chat on </p> 
-<p align="center">
-	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="http://bit.ly/2YqcMNO"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white&color=Black" alt="website"></a>
-	<a href="https://www.linkedin.com/in/sonukumarkushwaha/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	
-	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=YouTube" alt="YouTube"></a>
-	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/iamsonukushwaha?label=Follow&style=social" alt="Twitter"></a>
-	
-</p>
+
