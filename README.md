@@ -71,7 +71,6 @@ Then add a title and description to your pull request
 
 **Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
-<br><br>
 <br><br><br><br>
 
 
