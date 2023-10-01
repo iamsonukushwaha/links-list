@@ -51,9 +51,6 @@ Then add a title and description to your pull request
 ### 6. Create a Pull Request
 
 
-
-
-
 **Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
 <br><br>
@@ -63,7 +60,7 @@ Then add a title and description to your pull request
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 <p align="center">
 	<a href="https://singlebucks.blogspot.com"><img src="https://img.shields.io/badge/Website-blueviolet?style=flat&logo=google-chrome&logoColor=white" alt="website"></a>
