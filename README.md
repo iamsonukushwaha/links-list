@@ -1,20 +1,5 @@
+# Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world
 
-
-### Add About yourself, your portfolio, websites, projects and social media handles links on this website to showcase to the world
-
-
-
-<br><br>
-
-<!---
-
-[linklist-vert.vercel.app](https://linklist-vert.vercel.app)
-
-[singlebuck.herokuapp.com](https://singlebuck.herokuapp.com)
-
---->
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](https://github.com/flyingsonu122/links-list) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/links-list.svg?logo=github&style=social)](https://github.com/flyingsonu122/links-list)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/links-list.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)  [![Maintenance](https://img.shields.io/maintenance/yes/2022.svg?logo=git&style=social)](https://github.com/flyingsonu122/links-list)
 
 
 ## Steps to follow :scroll:
@@ -71,7 +56,7 @@ Then add a title and description to your pull request
 
 **Please share and tell about this project to everyone you know to add about themselves or if you have their details you can add it.**
 
-<br><br><br><br>
+<br><br>
 
 
 **&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
